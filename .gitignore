@@ -25,12 +25,6 @@ __pycache__/
 # VS Code
 .vscode/
 
-# Data files (if you have large datasets you don't want to commit)
-data/
-*.csv
-*.xlsx
-*.db
-*.sqlite
 
 # Model files (if you have large trained models)
 *.h5
