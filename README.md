@@ -1,8 +1,8 @@
-# 🧠 AI-Job-Matcher
+# 🧠 TalentMatch AI
 
 ## 📌 Overview
 
-This project, AI-Job-Matcher, is designed to help users find the best job matches based on their resume. It leverages AI to analyze resume content and compare it with job postings to identify relevant opportunities.
+This project, TalentMatch AI, is designed to help users find the best job matches based on their resume. It leverages AI to analyze resume content and compare it with job postings to identify relevant opportunities.
 
 ## ⭐ Key Features & Benefits
 
