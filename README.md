@@ -34,8 +34,8 @@ These dependencies are listed in the `requirements.txt` file.
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/Saro259/AI-Job-Matcher.git
-    cd AI-Job-Matcher
+    git clone https://github.com/Saro259/TalentMatch-AI.git
+    cd TalentMatch-AI
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
